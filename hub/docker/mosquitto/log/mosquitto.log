@@ -1,0 +1,8 @@
+1710635428: mosquitto version 2.0.18 starting
+1710635428: Config loaded from /mosquitto/config/mosquitto.conf.
+1710635428: Opening ipv4 listen socket on port 1883.
+1710635428: Opening ipv6 listen socket on port 1883.
+1710635428: mosquitto version 2.0.18 running
+1710635457: New connection from 172.21.0.3:44597 on port 1883.
+1710635457: New client connected from 172.21.0.3:44597 as auto-67DE9A69-5303-41D9-417A-D5DFA8BBCF04 (p2, c1, k60).
+1710635506: Client auto-67DE9A69-5303-41D9-417A-D5DFA8BBCF04 closed its connection.
